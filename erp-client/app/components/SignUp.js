@@ -1,4 +1,5 @@
-export default function Login() {
+
+export default function SignUp() {
     return (
         <main className="form-signin w-50 m-auto py-5">
             <form action="/login" method="POST">
